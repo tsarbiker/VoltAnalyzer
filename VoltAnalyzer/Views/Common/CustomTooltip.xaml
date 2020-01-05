@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="VoltAnalyzer.Views.Common.CustomTooltip"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" 
+             x:Name="Control" MinWidth="130">
+    <ItemsControl ItemsSource="{Binding Data.Points}" Grid.IsSharedSizeScope="True">
+        <ItemsControl.ItemTemplate>
+            <DataTemplate DataType="{x:Type wpf:DataPointViewModel}">
+                <Grid Background="{x:Null}" Margin="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition SharedSizeGroup="Title"/>
+                        <RowDefinition SharedSizeGroup="Label"/>
+                        <RowDefinition SharedSizeGroup="Participation"/>
+                    </Grid.RowDefinitions>
+                    <Rectangle Fill="#FFEAEAFA" HorizontalAlignment="Stretch" Grid.Row="1" Grid.RowSpan="3" Stroke="#FFB7B6B6" VerticalAlignment="Stretch" Width="Auto" RadiusX="3" RadiusY="3"/>
+                    <TextBlock TextWrapping="NoWrap" Grid.Row="1" Margin="2,2,2,1" Text="{Binding Series.Title}" Foreground="Black" VerticalAlignment="Center" TextAlignment="Center" />
+                    <TextBlock TextWrapping="NoWrap" Grid.Row="2" Text="{Binding ChartPoint.Y, StringFormat=\{0:0.000\}}" Foreground="Black" VerticalAlignment="Center" Margin="2,2,2,1" TextAlignment="Center"/>
+                    <TextBlock TextWrapping="NoWrap" Grid.Row="3" Text="{Binding ChartPoint.X}" Foreground="Black" VerticalAlignment="Center" Margin="2,0,2,2" TextAlignment="Center"/>
+                </Grid>
+            </DataTemplate>
+        </ItemsControl.ItemTemplate>
+    </ItemsControl>
+</UserControl>

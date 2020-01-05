@@ -1,0 +1,286 @@
+﻿<Window
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VoltAnalyzer.Views.Home"
+      xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+      xmlns:interactivity="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+      xmlns:VoltAnalyzer="clr-namespace:VoltAnalyzer" 
+      xmlns:Controls="clr-namespace:VoltAnalyzer.Utils.Controls" 
+      xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" 
+      xmlns:Common="clr-namespace:VoltAnalyzer.Views.Common" 
+      x:Class="VoltAnalyzer.Views.Home.HomeView"
+      mc:Ignorable="d" 
+      Height="600"
+      Width="1164.107"
+      Title=""
+      x:Name="HomeWindow"
+      DataContext="{Binding HomeVM, Source={StaticResource ViewModelLocator}}"
+      WindowStartupLocation="CenterScreen"
+      RenderTransformOrigin="0.5,0.5" Background="{x:Null}" Foreground="{x:Null}" WindowStyle="None" AllowsTransparency="True">
+    <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Width="Auto" CornerRadius="5"
+            Controls:ScaleToWindowSizeBehavior.Denominators="1164.107, 600"
+      Controls:ScaleToWindowSizeBehavior.ParentWindow="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}}">
+        <Border.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF9AEAAD" Offset="0"/>
+                <GradientStop Color="#FF79BEC7" Offset="1"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="HighQuality">
+            <Grid x:Name="BasicWindowControl" Margin="1068.796,0,10,560" Height="30">
+                <Grid Margin="43.8,0,0,0" Width="25" HorizontalAlignment="Right" Cursor="Hand" Background="#02FFFFFF">
+                    <interactivity:Interaction.Triggers>
+                        <interactivity:EventTrigger EventName="MouseUp">
+                            <interactivity:InvokeCommandAction Command="{Binding CloseCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                        </interactivity:EventTrigger>
+                    </interactivity:Interaction.Triggers>
+                    <Rectangle Height="2" Stroke="Black" Width="15" Fill="#FF030303" Panel.ZIndex="50" RenderTransformOrigin="0.5,0.5" Margin="-0.1,3.175,0.1,3.825" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Rectangle.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="45"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                    <Rectangle Height="2" Stroke="Black" Width="15" Fill="#FF030303" Panel.ZIndex="50" RenderTransformOrigin="0.5,0.5" Margin="-0.15,3.15,0.15,3.85" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Rectangle.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-45"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                </Grid>
+                <Grid Margin="0,0,44.851,0" Width="25" HorizontalAlignment="Left" Cursor="Hand" Background="#02FFFFFF">
+                    <interactivity:Interaction.Triggers>
+                        <interactivity:EventTrigger EventName="MouseUp">
+                            <interactivity:InvokeCommandAction Command="{Binding MinimizeCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                        </interactivity:EventTrigger>
+                    </interactivity:Interaction.Triggers>
+                    <Rectangle HorizontalAlignment="Center" Height="2" Stroke="Black" VerticalAlignment="Center" Width="13" Fill="#FF030303"/>
+                </Grid>
+                <Grid Margin="21,0" Width="25" HorizontalAlignment="Center" Cursor="Hand" Background="#02FFFFFF">
+                    <interactivity:Interaction.Triggers>
+                        <interactivity:EventTrigger EventName="MouseUp">
+                            <interactivity:InvokeCommandAction Command="{Binding ExpandCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                        </interactivity:EventTrigger>
+                    </interactivity:Interaction.Triggers>
+                    <Rectangle HorizontalAlignment="Center" Height="12" Stroke="Black" VerticalAlignment="Center" Width="12" StrokeThickness="2"/>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="2">
+                <ComboBox ItemsSource="{Binding LanguageList, Mode=OneWay}" VerticalAlignment="Top" HorizontalAlignment="Left" SelectedItem="{Binding SelectedLanguage, Mode=TwoWay}" Height="31" BorderBrush="#00ACACAC" Style="{DynamicResource ComboBoxTransparent}" Width="100" Margin="10,10,0,0">
+                    <ComboBox.ItemContainerStyle>
+                        <Style TargetType="{x:Type ComboBoxItem}">
+                            <Setter Property="Background" Value="#00111111" />
+                        </Style>
+                    </ComboBox.ItemContainerStyle>
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <local:LanguageItem/>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <Rectangle x:Name="DragWindow" Fill="#02F4F4F5" HorizontalAlignment="Left" Height="60" Margin="145,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="921" StrokeThickness="0">
+                    <interactivity:Interaction.Triggers>
+                        <interactivity:EventTrigger EventName="MouseLeftButtonDown">
+                            <interactivity:InvokeCommandAction Command="{Binding MoveCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                        </interactivity:EventTrigger>
+                    </interactivity:Interaction.Triggers>
+                </Rectangle>
+            </Grid>
+            <Grid x:Name="DefaultDirectory" Cursor="Hand" Background="#02F1EDED" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,563.324,0,0" Width="30" Height="30">
+                <Rectangle Fill="#7FE7F3F5" RadiusY="5" RadiusX="5" Stroke="#FFA5A2A2"/>
+                <Image DockPanel.Dock="Top" ToolTip="{Binding DirectoryT}" Source="/VoltAnalyzer;component/Resources/Folder.png" Width="25" HorizontalAlignment="Center" Margin="1,0,0,0">
+                    <interactivity:Interaction.Triggers>
+                        <interactivity:EventTrigger EventName="MouseUp">
+                            <interactivity:InvokeCommandAction Command="{Binding DefaultDirectoryCommand}"/>
+                        </interactivity:EventTrigger>
+                    </interactivity:Interaction.Triggers>
+                </Image>
+            </Grid>
+            <Label Content="{Binding SelectedFolder, Mode=OneWay}" HorizontalAlignment="Left" Margin="51.904,564.001,0,0" VerticalAlignment="Top" Width="691" Height="28" VerticalContentAlignment="Center"/>
+            <Grid x:Name="LoadTorqueData" Cursor="Hand" Background="#02F1EDED" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22.662,508.984,0,0" Width="183">
+                <interactivity:Interaction.Triggers>
+                    <interactivity:EventTrigger EventName="MouseUp">
+                        <interactivity:InvokeCommandAction Command="{Binding LoadTorqueDataCommand}"/>
+                    </interactivity:EventTrigger>
+                </interactivity:Interaction.Triggers>
+                <Rectangle Fill="#7FE7F3F5" Margin="0" RadiusY="5" RadiusX="5" Stroke="#FFA5A2A2"/>
+                <Label Height="30" Content="{Binding TorqueDataT}" DockPanel.Dock="Bottom" Foreground="#FF252525" HorizontalContentAlignment="Center" Margin="30,0,0,0"/>
+                <Image Margin="4,0,0,0" DockPanel.Dock="Top" Source="/VoltAnalyzer;component/Resources/torquepro.png" Width="25" HorizontalAlignment="Left"/>
+            </Grid>
+            <Grid x:Name="AverageEVConsumption" Width="160" Height="160" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="954.642,115.906,0,0">
+                <Ellipse HorizontalAlignment="Left" Height="160" Stroke="#FF76EADF" StrokeThickness="15" StrokeLineJoin="Round" VerticalAlignment="Top" Width="160" Visibility="Hidden">
+                    <Ellipse.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Ellipse.Effect>
+                    <Ellipse.Fill>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFD0E7E8" Offset="0"/>
+                            <GradientStop Color="#FF44DFE8" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.HighEVConsumptionDisplay}" Margin="0" StrokeThickness="15" Stroke="#FFF91010" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.MiddleEVConsumptionDisplay}"  Stroke="#FFADB920" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.LowEVConsumptionDisplay}"  Stroke="#FF1134F4" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.AverageEVConsumptionDisplay}"  Stroke="#FF56CE31" Margin="19" StrokeThickness="15" StrokeDashCap="Round" StrokeLineJoin="Round">
+                    <Controls:CircularProgress.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Controls:CircularProgress.Effect>
+                </Controls:CircularProgress>
+                <Label Content="{Binding CarInfo.AverageEVConsumptionT}" Margin="0,80,0,45.624" HorizontalContentAlignment="Center" FontSize="16" Padding="0" Width="160" Height="25"/>
+                <Label Content="{Binding CarInfo.OfficialEVConsumption}" Margin="10,38,10,74.7" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="11"/>
+                <Label Content="{Binding CarInfo.BestEVConsumptionT}" Margin="0,116.414,0,22.586" HorizontalContentAlignment="Center" Height="21" Padding="0"/>
+                <Label Content="{Binding CarInfo.WorstEVConsumptionT}" Margin="0,139.114,0,-0.114" HorizontalContentAlignment="Center" Height="21" Padding="0"/>
+            </Grid>
+            <Grid x:Name="AverageCombinedConsumption" Width="160" Height="160" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="665.52,17.092,0,0">
+                <Ellipse HorizontalAlignment="Left" Height="160" Stroke="#FF76EADF" StrokeThickness="15" StrokeLineJoin="Round" VerticalAlignment="Top" Width="160" Visibility="Hidden">
+                    <Ellipse.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Ellipse.Effect>
+                    <Ellipse.Fill>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFD0E7E8" Offset="0"/>
+                            <GradientStop Color="#FF44DFE8" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.HighCombinedConsumptionDisplay}" Margin="0" StrokeThickness="15" Stroke="#FFF91010" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.MiddleCombinedConsumptionDisplay}"  Stroke="#FFADB920" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.LowCombinedConsumptionDisplay}"  Stroke="#FF1134F4" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.AverageCombinedConsumptionDisplay}"  Stroke="#FF56CE31" Margin="19" StrokeThickness="15" StrokeDashCap="Round" StrokeLineJoin="Round">
+                    <Controls:CircularProgress.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Controls:CircularProgress.Effect>
+                </Controls:CircularProgress>
+                <Label Content="{Binding CarInfo.AverageCombinedConsumptionT}" Margin="0,35,0,0" HorizontalContentAlignment="Center" FontSize="16" Padding="0" Width="160" Height="25"/>
+                <Label Content="{Binding CarInfo.OfficialCombinedConsumption}" Margin="10,38,10,74.7" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="11"/>
+            </Grid>
+            <Grid x:Name="AverageEVKM" Width="160" Height="160" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="322.451,17.092,0,0">
+                <Ellipse HorizontalAlignment="Left" Height="160" Stroke="#FF76EADF" StrokeThickness="15" StrokeLineJoin="Round" VerticalAlignment="Top" Width="160" Visibility="Hidden">
+                    <Ellipse.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Ellipse.Effect>
+                    <Ellipse.Fill>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFD0E7E8" Offset="0"/>
+                            <GradientStop Color="#FF44DFE8" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.HighEVKMDisplay}" Margin="0" StrokeThickness="15" Stroke="#FFF91010" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.MiddleEVKMDisplay}"  Stroke="#FFADB920" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.AverageEVKMDisplay}"  Stroke="#FF56CE31" Margin="19" StrokeThickness="15" StrokeDashCap="Round" StrokeLineJoin="Round">
+                    <Controls:CircularProgress.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Controls:CircularProgress.Effect>
+                </Controls:CircularProgress>
+                <Label Content="{Binding CarInfo.AverageEVKMT}" Margin="0,35,0,0" HorizontalContentAlignment="Center" FontSize="16" Padding="0" Height="25" Width="160"/>
+                <Label Content="{Binding CarInfo.OfficialEVKM}" Margin="10,38,10,74.7" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="11"/>
+            </Grid>
+            <Grid x:Name="AverageFuelConsumption" Width="160" Height="160" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="954.642,394.093,0,0">
+                <Ellipse HorizontalAlignment="Left" Height="160" Stroke="#FF76EADF" StrokeThickness="15" StrokeLineJoin="Round" VerticalAlignment="Top" Width="160" Visibility="Hidden">
+                    <Ellipse.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Ellipse.Effect>
+                    <Ellipse.Fill>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFD0E7E8" Offset="0"/>
+                            <GradientStop Color="#FF44DFE8" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.HighFuelConsumptionDisplay}" Margin="0" StrokeThickness="15" Stroke="#FFF91010" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.MiddleFuelConsumptionDisplay}"  Stroke="#FFADB920" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.LowFuelConsumptionDisplay}"  Stroke="#FF1134F4" StrokeThickness="15" StrokeEndLineCap="Triangle" StrokeDashCap="Round" StrokeLineJoin="Round"/>
+                <Controls:CircularProgress SnapsToDevicePixels="True" Value="{Binding CarInfo.AverageFuelConsumptionDisplay}"  Stroke="#FF56CE31" Margin="19" StrokeThickness="15" StrokeDashCap="Round" StrokeLineJoin="Round">
+                    <Controls:CircularProgress.Effect>
+                        <DropShadowEffect Opacity="0.75"/>
+                    </Controls:CircularProgress.Effect>
+                </Controls:CircularProgress>
+                <Label Content="{Binding CarInfo.AverageFuelConsumptionT}" Margin="0,80,0,45.624" HorizontalContentAlignment="Center" FontSize="16" Padding="0" Width="160" Height="25"/>
+                <Label Content="{Binding CarInfo.OfficialFuelConsumption}" Margin="10,38,10,74.7" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="11"/>
+                <Label Content="{Binding CarInfo.BestFuelConsumptionT}" Margin="0,116.414,0,22.586" HorizontalContentAlignment="Center" Height="21" Padding="0"/>
+                <Label Content="{Binding CarInfo.WorstFuelConsumptionT}" Margin="0,139.114,0,-0.114" HorizontalContentAlignment="Center" Height="21" Padding="0"/>
+            </Grid>
+            <Grid x:Name="Total" Margin="32,71.592,0,0" Height="210" Width="160" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <Rectangle x:Name="Background" Fill="#7FCCCCD1" Margin="0" Stroke="#FFA5A2A2" RadiusX="10" RadiusY="9.8"/>
+                <StackPanel Orientation="Vertical" Margin="0">
+                    <Label Content="{Binding CarInfo.TotalT}" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"/>
+                    <StackPanel x:Name="TotalKM" Margin="0" Orientation="Horizontal" Height="35" VerticalAlignment="Top">
+                        <Image x:Name="KMImage" Source="/VoltAnalyzer;component/Resources/KM.png" Margin="4"/>
+                        <Label x:Name="LTotalKM" Content="{Binding CarInfo.TotalKMDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="TotalFuel" Height="35" Orientation="Horizontal">
+                        <Image x:Name="FuelImage" Source="/VoltAnalyzer;component/Resources/Fuel.png" Margin="4"/>
+                        <Label x:Name="LTotalFuel" Content="{Binding CarInfo.TotalFuelUsedDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="TotalElectricity" Height="35" Orientation="Horizontal">
+                        <Image x:Name="ElectricityImage" Source="/VoltAnalyzer;component/Resources/Electricity.png" Margin="4"/>
+                        <Label x:Name="LTotalElectricity" Content="{Binding CarInfo.TotalChargingDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="AverageSpeed" Height="35" Orientation="Horizontal">
+                        <Image x:Name="SpeedImage" Source="/VoltAnalyzer;component/Resources/Speed.png" Margin="4"/>
+                        <Label x:Name="LSpeed" Content="{Binding CarInfo.AverageSpeedDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="TotalRegen" Height="35" Orientation="Horizontal">
+                        <Image x:Name="Regen" Source="/VoltAnalyzer;component/Resources/Regen.png" Margin="4"/>
+                        <Label x:Name="LRegen" Content="{Binding CarInfo.TotalRegenDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            <Grid x:Name="CostEstimate" Margin="32,305.906,0,0" Height="175" Width="160" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <Rectangle x:Name="Background1" Fill="#7FCCCCD1" Margin="0" Stroke="#FFA5A2A2" RadiusX="10" RadiusY="9.8"/>
+                <StackPanel Orientation="Vertical" Margin="0">
+                    <Label Content="{Binding CarInfo.CostEstimateT}" Height="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"/>
+                    <StackPanel x:Name="CostFuel" Height="35" Orientation="Horizontal">
+                        <Image x:Name="FuelImage1" Source="/VoltAnalyzer;component/Resources/Fuel.png" Margin="4"/>
+                        <Label x:Name="LTotalFuel1" Content="{Binding CarInfo.CostFuelDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="CostCharging" Height="35" Orientation="Horizontal">
+                        <Image x:Name="ElectricityImage1" Source="/VoltAnalyzer;component/Resources/Electricity.png" Margin="4"/>
+                        <Label x:Name="LTotalElectricity1" Content="{Binding CarInfo.CostChargingDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="TotalCost" Orientation="Horizontal" Height="35">
+                        <Image x:Name="FuelImage2" Source="/VoltAnalyzer;component/Resources/Car.png" Margin="1"/>
+                        <Label x:Name="LTotalFuel2" Content="{Binding CarInfo.TotalCostDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel x:Name="Cost100km" Margin="0" Orientation="Horizontal" Height="35" VerticalAlignment="Top">
+                        <Image x:Name="KMImage1" Source="/VoltAnalyzer;component/Resources/KM.png" Margin="4"/>
+                        <Label x:Name="LTotalKM1" Content="{Binding CarInfo.CostPer100KMDisplay}" Margin="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            <Common:BasicLinesGraph DataContext="{Binding BasicLinesGVM}" HorizontalAlignment="Left" Height="378.408" VerticalAlignment="Top" Width="710.642" Margin="244,177.592,0,0"/>
+            <Common:GraphSelector DataContext="{Binding Path=DataContext, ElementName=HomeWindow}" Height="35" Margin="243.535,139.592,209.465,0" VerticalAlignment="Top" HorizontalContentAlignment="Left"/>
+            <Border x:Name="LoadingScreen" BorderBrush="Black" BorderThickness="1" Background="#80000000" Visibility="{Binding IsBusy, Converter={StaticResource VisibilityConverter}, FallbackValue=collapsed}" CornerRadius="5">
+                <interactivity:Interaction.Triggers>
+                    <interactivity:EventTrigger EventName="MouseLeftButtonDown">
+                        <interactivity:InvokeCommandAction Command="{Binding MoveCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                    </interactivity:EventTrigger>
+                </interactivity:Interaction.Triggers>
+                <Grid>
+                    <TextBlock Margin="0" TextWrapping="Wrap" Text="{Binding WaitMessage}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Foreground="#7EFFFFFF"/>
+                </Grid>
+            </Border>
+            <Border x:Name="MessageDisplay" BorderBrush="Black" BorderThickness="1" Background="#80000000" Visibility="{Binding MessageDisplay.IsDisplayingMessage, Converter={StaticResource VisibilityConverter}, FallbackValue=collapsed}" CornerRadius="5">
+                <interactivity:Interaction.Triggers>
+                    <interactivity:EventTrigger EventName="MouseLeftButtonDown">
+                        <interactivity:InvokeCommandAction Command="{Binding MoveCommand}" CommandParameter="{Binding ElementName=HomeWindow}"/>
+                    </interactivity:EventTrigger>
+                </interactivity:Interaction.Triggers>
+                <Grid>
+                    <VoltAnalyzer:MessageDisplayUC DataContext="{Binding MessageDisplay}"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

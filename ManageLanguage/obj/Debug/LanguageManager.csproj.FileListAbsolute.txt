@@ -114,22 +114,3 @@ C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\M
 C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.csproj.CopyComplete
 C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.dll
 C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\LanguageManager.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\LanguageManager.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Extras.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Platform.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\System.Windows.Interactivity.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.xml
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Extras.xml
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\GalaSoft.MvvmLight.Platform.xml
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.csprojAssemblyReference.cache
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.csproj.CopyComplete
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.dll
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\ManageLanguage\obj\Debug\LanguageManager.pdb

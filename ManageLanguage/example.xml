@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language>
+  <Group ID="TextMessage">
+    <Element ID="OK">
+      <Text ID="FR">Oui</Text>
+      <Text ID="EN">Yes</Text>
+    </Element>
+  </Group>
+</Language>
