@@ -1,0 +1,81 @@
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe.config
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Skins\MainSkin.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageWindowView.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\WaitChildWindow.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\CircularProgress.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageWindowView.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\WaitChildWindow.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\App.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\App.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\CircularProgress.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.g.resources
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe.config
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Skins\MainSkin.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageWindowView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\WaitChildWindow.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageWindowView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\WaitChildWindow.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\App.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\App.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.g.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Release\Texts.xml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe.config
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Release\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\CustomLegend.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\CustomTooltip.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Skins\MainSkin.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\CustomLegend.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\CustomTooltip.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\GraphSelector.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageDisplayUC.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\BasicLinesGraph.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\App.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\App.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\GraphSelector.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\MessageDisplayUC.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Common\BasicLinesGraph.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\HomeView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\Views\Home\LanguageItem.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.g.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Release\VoltAnalyzer.pdb

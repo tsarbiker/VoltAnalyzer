@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language>
+  <Group ID="CarInfoVM">
+    <Element ID="Worst">
+      <Text ID="FR">Pire</Text>
+      <Text ID="ENG">Worst </Text>
+    </Element>
+    <Element ID="Best">
+      <Text ID="FR">Meilleur</Text>
+      <Text ID="ENG">Best </Text>
+    </Element>
+    <Element ID="Liters">
+      <Text ID="FR">Litres</Text>
+      <Text ID="ENG">Liters</Text>
+    </Element>
+    <Element ID="KW">
+      <Text ID="FR">Kilowatts</Text>
+      <Text ID="ENG">Kilowatts</Text>
+    </Element>
+    <Element ID="KM">
+      <Text ID="FR">Kilometres</Text>
+      <Text ID="ENG">Kilometers</Text>
+    </Element>
+    <Element ID="TotalT">
+      <Text ID="FR">Statistique Globale</Text>
+      <Text ID="ENG">Total Statistics</Text>
+    </Element>
+    <Element ID="CostEstimateT">
+      <Text ID="FR">Estimation Côut</Text>
+      <Text ID="ENG">Cost Estimate</Text>
+    </Element>
+    <Element ID="Cost">
+      <Text ID="FR">€</Text>
+      <Text ID="ENG">€</Text>
+    </Element>
+    <Element ID="Cost100KM">
+      <Text ID="FR">€/100km</Text>
+      <Text ID="ENG">€/100km</Text>
+    </Element>
+  </Group>
+  <Group ID="Home">
+    <Element ID="SerieFuelC">
+      <Text ID="FR">Consommation essence</Text>
+      <Text ID="ENG">Fuel Consumption</Text>
+    </Element>
+    <Element ID="SerieEVC">
+      <Text ID="FR">Consommation EV</Text>
+      <Text ID="ENG">EV Consumption</Text>
+    </Element>
+    <Element ID="FodlerEmpty">
+      <Text ID="FR">Veuillez selectionner le dossier dans lequel se trouve les fichiers de torque.</Text>
+      <Text ID="ENG">Please select the directory in which the torque file are located.</Text>
+    </Element>
+    <Element ID="FolderDoesntExist">
+      <Text ID="FR">Le dossier selectione n'existe pas.</Text>
+      <Text ID="ENG">The selected folder doesn't exist.</Text>
+    </Element>
+    <Element ID="TorqueDataT">
+      <Text ID="FR">Charge données de Torque</Text>
+      <Text ID="ENG">Load Torque Data</Text>
+    </Element>
+    <Element ID="DirectoryT">
+      <Text ID="FR">Selectionner le repertoire</Text>
+      <Text ID="ENG">Select the torque directory</Text>
+    </Element>
+    <Element ID="BusyMessage">
+      <Text ID="FR">Le fichier numero XX a ete lu.</Text>
+      <Text ID="ENG">File number XX has been read.</Text>
+    </Element>
+    <Element ID="ProcessingBusyMessage">
+      <Text ID="FR">Traitement des fichiers lu.</Text>
+      <Text ID="ENG">Processing of the files read.</Text>
+    </Element>
+    <Element ID="FuelConsumption">
+      <Text ID="FR">Consommation essence</Text>
+      <Text ID="ENG">Fuel Consumption</Text>
+    </Element>
+  </Group>
+</Language>

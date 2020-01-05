@@ -1,0 +1,238 @@
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\CsvHelper.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\LanguageManager.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\LanguageManager.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\CsvHelper.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\WaitChildWindow.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\CircularProgress.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\WaitChildWindow.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\CircularProgress.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CopyComplete
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\WaitChildWindow.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\WaitChildWindow.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\henri\Downloads\OneDrive-2018-09-15\VoltAnalyzer150920182\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.baml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.g.cs
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\henri\Documents\Nicolas\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageWindowView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.baml
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.g.cs
+C:\Users\nicol\OneDrive\Documents\Project\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\Texts.xml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomTooltip.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomTooltip.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\GraphSelector.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\GraphSelector.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\nicol\Documents\Visual Studio 2017\Projects\VoltAnalyzer\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\Texts.xml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.config
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.pdb
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.CodeAnalysisLog.xml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe.lastcodeanalysissucceeded
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomTooltip.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Skins\MainSkin.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomLegend.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\CustomTooltip.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\GraphSelector.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.cache
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer_MarkupCompile.lref
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\App.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\GraphSelector.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\MessageDisplayUC.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Common\BasicLinesGraph.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\HomeView.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\Views\Home\LanguageItem.baml
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.g.resources
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.Properties.Resources.resources
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.exe
+C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\VoltAnalyzer.pdb
