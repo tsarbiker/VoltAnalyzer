@@ -1,0 +1,6 @@
+GPS Time, Device Time, Longitude, Latitude,GPS Speed (Meters/second), Horizontal Dilution of Precision, Altitude, Bearing, !! HV Volts(V),!! Inst. kPower(kW),!! SOC (Usable)(%),!! SOC(Raw)(%),!Engine Coolant Temp(°C),!Engine Oil Temp(°C),!EV km this Cycle(km),!Fuel Remaining(Gallons),!HV Battery Temp(°C),!Hybrid Pack Remaining (SOC)(%),!Last Charge AC Wh(Wh),!Power Electronics Cooling Temp(°C),!Speed kmh(kmh),*Bat heat(W),Ambient air temp(°C),Driving efficiency(wh/km),Engine RPM(rpm),Fuel used (trip)(l),GPS Altitude(m),Percentage of City driving(%),Percentage of Highway driving(%),Percentage of Idle driving(%),Trip average Litres/100 KM(l/100km),Trip Distance(km)
+-,30-Aug-2018 17:07:24.255,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,30-Aug-2018 17:07:25.249,-,-,-,-,-,-,352.09375,0.84502506,3.59281445,23.52941132,19,24,0,6.39072561,17,23.52941132,-,-,-,-,-,0,-,-,-,-,-,-,-,-
+-,30-Aug-2018 17:07:26.248,-,-,-,-,-,-,352.09375,0.84502506,3.59281445,23.52941132,19,24,0,6.39072561,17,23.52941132,12340,30,0,0,-,∞,0,-,-,-,-,-,-,-
+-,30-Aug-2018 17:07:27.252,-,-,-,-,-,-,352.09375,0.84502506,3.59281445,23.52941132,19,24,0,6.39072561,17,23.52941132,12340,30,0,0,16,∞,0,-,-,-,-,-,-,-
+-,30-Aug-2018 17:07:28.253,-,-,-,-,-,-,352.09375,0.84502506,3.59281445,23.52941132,19,24,0,6.39072561,17,23.52941132,12340,30,0,0,16,∞,0,-,-,-,-,-,-,-
