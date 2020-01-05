@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
-<FxCopReport Version="16.0">
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
  <Targets>
-  <Target Name="C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe">
+  <Target Name="C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\bin\Debug\VoltAnalyzer.exe">
    <Modules>
     <Module Name="voltanalyzer.exe">
      <Namespaces>
@@ -12,8 +12,8 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 08:51:23Z" FixCategory="NonBreaking">
-             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Common" File="MessageDisplayVM.cs" Line="63">'MessageDisplayVM.MessageDisplayVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;MessageDisplayVM..ctor()&#xD;&#xA;MessageDisplayVM.set_CloseMessageCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
+            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 10:24:08Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Common" File="MessageDisplayVM.cs" Line="63">'MessageDisplayVM.MessageDisplayVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;MessageDisplayVM..ctor()&#xD;&#xA;MessageDisplayVM.set_CloseMessageCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
             </Message>
            </Messages>
           </Member>
@@ -27,8 +27,8 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 08:51:23Z" FixCategory="NonBreaking">
-             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\BusinessViewModels\Graph" File="GraphListVM.cs" Line="16">'GraphListVM.GraphListVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;GraphListVM..ctor()&#xD;&#xA;GraphListVM.set_ChangeGraphCommand(RelayCommand&lt;String&gt;):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
+            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 10:24:08Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\BusinessViewModels\Graph" File="GraphListVM.cs" Line="16">'GraphListVM.GraphListVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;GraphListVM..ctor()&#xD;&#xA;GraphListVM.set_ChangeGraphCommand(RelayCommand&lt;String&gt;):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
             </Message>
            </Messages>
           </Member>
@@ -42,8 +42,8 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 08:51:23Z" FixCategory="NonBreaking">
-             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Common" File="FileDialogVM.cs" Line="15">'FileDialogVM.FileDialogVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;FileDialogVM..ctor()&#xD;&#xA;FileDialogVM.set_SaveCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
+            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 10:24:08Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Common" File="FileDialogVM.cs" Line="15">'FileDialogVM.FileDialogVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;FileDialogVM..ctor()&#xD;&#xA;FileDialogVM.set_SaveCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
             </Message>
            </Messages>
           </Member>
@@ -57,8 +57,8 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 08:51:23Z" FixCategory="NonBreaking">
-             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Home" File="HomePVM.cs" Line="84">'HomePVM.HomePVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;HomePVM..ctor()&#xD;&#xA;HomePVM.set_LoadTorqueDataCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
+            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2020-01-05 10:24:08Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalWarning" Path="C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\ViewModel\PanelViewModels\Home" File="HomePVM.cs" Line="84">'HomePVM.HomePVM()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;HomePVM..ctor()&#xD;&#xA;HomePVM.set_LoadTorqueDataCommand(RelayCommand):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
             </Message>
            </Messages>
           </Member>
@@ -80,7 +80,7 @@
    <Url>http://msdn.microsoft.com/library/ms182331.aspx</Url>
    <Email>[none]</Email>
    <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
-   <File Name="usagerules.dll" Version="16.0.0.0" />
+   <File Name="usagerules.dll" Version="15.0.0.0" />
   </Rule>
  </Rules>
  <Localized>

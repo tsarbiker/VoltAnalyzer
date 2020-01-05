@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\
+C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\obj\Debug\
 VoltAnalyzer
 none
 false
 CODE_ANALYSIS;DEBUG;TRACE
-C:\Users\nicol\source\repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\App.xaml
+C:\Users\henri\Source\Repos\tsarbiker\VoltAnalyzer\VoltAnalyzer\App.xaml
 8-1720610421
 
 31-1438085705
-84770194082
+841287022636
 Views\Common\CustomLegend.xaml;Views\Common\CustomTooltip.xaml;Views\Common\GraphSelector.xaml;Views\Common\MessageDisplayUC.xaml;Skins\MainSkin.xaml;Views\Common\BasicLinesGraph.xaml;Views\Home\HomeView.xaml;Views\Home\LanguageItem.xaml;
 
 False
